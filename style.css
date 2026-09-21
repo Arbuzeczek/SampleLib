@@ -70,3 +70,7 @@ td:hover {
 td img {
     border-radius: 30px;
 }
+
+.missing:hover {
+    cursor: not-allowed;
+}
